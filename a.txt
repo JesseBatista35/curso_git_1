@@ -3,3 +3,4 @@ a atualização de arquivo
 utilizando o git pull
 enviando a funcionalidade
 x
+enviando funcionalidade b
