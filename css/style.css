@@ -11,3 +11,7 @@ p.home {
 table {
     background-color: red;
 }
+
+table th {
+    background-color:rebeccapurple;
+}
